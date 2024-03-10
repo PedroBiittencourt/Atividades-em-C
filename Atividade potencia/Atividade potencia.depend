@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709960607 source:c:\users\phsco\documents\curso de programação em c\projetos em c\atividade potencia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
