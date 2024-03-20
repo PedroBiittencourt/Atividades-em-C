@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710620923 source:c:\users\phsco\documents\curso de programação em c\projetos em c\numero aleatorio 1 a n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

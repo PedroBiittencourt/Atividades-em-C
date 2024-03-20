@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710513337 source:c:\users\phsco\documents\curso de programação em c\projetos em c\modularizacao tempo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
