@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711840399 source:c:\users\phsco\documents\curso de programação em c\projetos em c\exercicio triangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
